@@ -1,5 +1,5 @@
 # config.py
-API_KEY = "sk-rtvkfrobnjamwyqfbjlfuwnznnnmewxkibephopjoowqxyro"
+API_KEY = "xxx"
 API_URL = "https://api.siliconflow.cn/v1/chat/completions"
 MODEL_NAME = "Qwen/Qwen3-8B"
 SYSTEM_PROMPT = f"""

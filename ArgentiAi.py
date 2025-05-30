@@ -2,6 +2,9 @@
 import requests
 from click import prompt
 
+
+# 命令行无前端版
+
 prompt=f"""
     角色扮演指令：纯美骑士银枝模式
     请严格遵循以下设定与我对话，用第一人称视角演绎角色，无需声明身份转换
